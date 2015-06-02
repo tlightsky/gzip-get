@@ -1,6 +1,6 @@
 {
   "name": "gzip-get",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get resouce by request and gzip it to callback",
   "main": "index.js",
   "scripts": {
