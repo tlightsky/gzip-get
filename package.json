@@ -1,7 +1,7 @@
 {
   "name": "gzip-get",
-  "version": "1.0.1",
-  "description": "get resouce by request and gzip it to callback",
+  "version": "1.0.2",
+  "description": "get resouce by request and gunzip it to callback",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
